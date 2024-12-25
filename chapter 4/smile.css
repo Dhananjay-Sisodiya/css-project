@@ -1,0 +1,39 @@
+#nav{
+     height: 250px;
+     width: 250px;
+     background-color: black;
+
+}
+#sec{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: rgb(213, 213, 115);
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.eye{
+       height: 20px;
+       width: 20px;
+       border: 2px solid black;
+       border-radius: 50%;
+       margin: 30px;
+       background-color: black;
+       display: inline-block;
+       position: relative;
+       top: 25px;
+       left: 10px;
+
+}
+#mou{
+    height: 40px;
+    width: 120px;
+    background-color: brown;
+    border: 2px solid black;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    border-radius: 10px 10px 30px 30px;
+}
